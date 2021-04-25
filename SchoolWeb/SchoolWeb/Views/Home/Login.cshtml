@@ -1,12 +1,10 @@
 ﻿
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="en-us" ng-app="School">
 <head>
     @Html.Partial("Header")
 </head>
-
-<body class="account-body accountbg">
+<body class="account-body accountbg" ng-controller="LoginPage" ng-init="initLogin()">
 
     <!-- Log In page -->
     <div class="container">
@@ -100,6 +98,7 @@
     <!-- End Log In page -->
 
     @Html.Partial("Footer")
+<script src="~/js/App/Model1.js"></script>
 </body>
 
 </html>

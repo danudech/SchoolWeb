@@ -105,3 +105,4 @@ C:\Git\Private\School-Web\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\SchoolWeb.
 C:\Git\Private\School-Web\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs
 C:\Git\Private\School-Web\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
 C:\Git\Private\School-Web\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Git\Private\School-Web\SchoolWeb\SchoolWeb\bin\Debug\netcoreapp3.1\RestSharp.dll

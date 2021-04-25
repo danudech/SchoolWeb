@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fJSJ6dZfZymlqRCkoMDl6aKo+R1Fp0ljhgZdPWkYza6XYN33mfBJj9BDz92BPH4li0Ezs5sdV4pEp74hV21lEg==",
+  "dgSpecHash": "JAmcewT6p+OevdJjd0rSTpl95u1C3Nxh/zKIFrHMfDEfway710ccX6R0x6357+h9QH487ErZKahxdZBPfasYug==",
   "success": true,
   "projectFilePath": "C:\\Git\\Private\\School-Web\\SchoolWeb\\SchoolWeb\\SchoolWeb.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\danyy\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\danyy\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\danyy\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
+    "C:\\Users\\danyy\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Users\\danyy\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\danyy\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\danyy\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

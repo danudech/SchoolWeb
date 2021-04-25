@@ -13,8 +13,16 @@ namespace SchoolWeb.Controllers
     {
         public IActionResult Index()
         {
-            ViewBag.Title = "Home";
-            return View();
+            var Cookie = Request.Cookies["Login Name"];
+            if (Cookie == null)
+            {
+                return Redirect("/Home/Login");
+            }
+            else {
+
+                ViewBag.Title = "Home";
+                return View();
+            }
         }
 
         public IActionResult Login()

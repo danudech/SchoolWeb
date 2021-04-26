@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SchoolWeb.Models;
 using System;
@@ -13,7 +14,8 @@ namespace SchoolWeb.Controllers
     {
         public IActionResult Index()
         {
-            var Cookie = Request.Cookies["Login Name"];
+            string key = "Loogin";
+            var Cookie = Request.Cookies[key];
             if (Cookie == null)
             {
                 return Redirect("/Home/Login");
@@ -29,6 +31,19 @@ namespace SchoolWeb.Controllers
         {
             ViewBag.Title = "Login";
             return View();
+        }
+
+        [HttpGet]
+        public JsonResult Loginfn() {
+            string key = "Loogin";
+            string value = "UserLogin";
+
+            CookieOptions options = new CookieOptions();
+            options.Expires = DateTime.Now.AddDays(1);
+
+            Response.Cookies.Append(key, value, options);
+
+            return Json(new {status = true , Link = "/Home/Index" });
         }
     }
 }

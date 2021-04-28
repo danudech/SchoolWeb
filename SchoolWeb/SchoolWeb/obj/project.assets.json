@@ -6095,19 +6095,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iChol\\.nuget\\packages\\": {}
+    "C:\\Users\\danyy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project-SchoolWeb\\SchoolWeb\\SchoolWeb\\SchoolWeb.csproj",
+      "projectUniqueName": "C:\\Git\\Private\\School-Web\\SchoolWeb\\SchoolWeb\\SchoolWeb.csproj",
       "projectName": "SchoolWeb",
-      "projectPath": "C:\\Project-SchoolWeb\\SchoolWeb\\SchoolWeb\\SchoolWeb.csproj",
-      "packagesPath": "C:\\Users\\iChol\\.nuget\\packages\\",
-      "outputPath": "C:\\Project-SchoolWeb\\SchoolWeb\\SchoolWeb\\obj\\",
+      "projectPath": "C:\\Git\\Private\\School-Web\\SchoolWeb\\SchoolWeb\\SchoolWeb.csproj",
+      "packagesPath": "C:\\Users\\danyy\\.nuget\\packages\\",
+      "outputPath": "C:\\Git\\Private\\School-Web\\SchoolWeb\\SchoolWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iChol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danyy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

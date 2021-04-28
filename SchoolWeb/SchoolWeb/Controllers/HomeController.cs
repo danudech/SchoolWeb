@@ -14,17 +14,19 @@ namespace SchoolWeb.Controllers
     {
         public IActionResult Index()
         {
-            string key = "Loogin";
-            var Cookie = Request.Cookies[key];
-            if (Cookie == null)
-            {
-                return Redirect("/Home/Login");
-            }
-            else {
 
-                ViewBag.Title = "Home";
-                return View();
-            }
+            ViewBag.Title = "Home";
+            return View();
+
+            //string key = "Loogin";
+            //var Cookie = Request.Cookies[key];
+            //if (Cookie == null)
+            //{
+            //    return Redirect("/Home/Login");
+            //}
+            //else {
+
+            //}
         }
 
         public IActionResult Login()

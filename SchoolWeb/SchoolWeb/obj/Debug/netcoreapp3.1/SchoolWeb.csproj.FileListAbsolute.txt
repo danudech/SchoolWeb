@@ -214,5 +214,10 @@ C:\Project-SchoolWeb\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\SchoolWeb.cspro
 C:\Project-SchoolWeb\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\SchoolWeb.dll
 C:\Project-SchoolWeb\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\SchoolWeb.pdb
 C:\Project-SchoolWeb\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\SchoolWeb.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Git\Private\School-Web\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Top_Header.cshtml.g.cs
 C:\Git\Private\School-Web\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Menubar.cshtml.g.cs
+=======
+C:\Project-SchoolWeb\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Topbar.cshtml.g.cs
+C:\Project-SchoolWeb\SchoolWeb\SchoolWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Menubar.cshtml.g.cs
+>>>>>>> 0f8788946a84877384233c11fb20d3ac00517fa3

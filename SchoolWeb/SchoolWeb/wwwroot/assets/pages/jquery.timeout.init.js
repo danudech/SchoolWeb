@@ -7,10 +7,10 @@
 
 $.sessionTimeout({
   message: 'Your session will be locked in 30 seconds.',
-  keepAliveUrl: '../pages/pages-starter.html',
+  keepAliveUrl: '~/pages/pages-starter.html',
   logoutButton:'Logout',
-  logoutUrl: '../authentication/auth-login.html',
-  redirUrl: '../authentication/auth-lock-screen.html',
+  logoutUrl: '~/authentication/auth-login.html',
+  redirUrl: '~/authentication/auth-lock-screen.html',
   warnAfter: 3000,
   redirAfter: 30000,
   countdownBar: true

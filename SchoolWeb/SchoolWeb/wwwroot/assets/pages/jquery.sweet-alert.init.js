@@ -132,7 +132,7 @@
             Swal.fire({
                 title: 'Crovex',
                 text: 'Modal with a custom image.',
-                imageUrl: '../assets/images/logo-sm.png',
+                imageUrl: '~/assets/images/logo-sm.png',
                 imageHeight: 80,
                 animation: false
             })            
@@ -167,7 +167,7 @@
                 title: 'Custom width, padding, background.',
                 width: 600,
                 padding: 100,
-                background: '$card-bg url(../assets/images/pattern.png)'
+                background: '$card-bg url(~/assets/images/pattern.png)'
             })
         });
 

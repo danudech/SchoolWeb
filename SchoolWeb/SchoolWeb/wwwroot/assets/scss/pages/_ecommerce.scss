@@ -46,7 +46,7 @@
   } 
   .bg-pattern{
     position: absolute;
-    background-image: url('../images/1.png');
+    background-image: url('~/images/1.png');
     background-position: center center;
     background-size: cover; 
     background-repeat: no-repeat;
@@ -178,7 +178,7 @@
   }
 }
 .offer-box{
-  background-image: url('../images/products/offer.jpg');
+  background-image: url('~/images/products/offer.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -376,7 +376,7 @@ hr.thick {
 }
 .cart-promo{
   padding: 90px;
-  background-image: url(../images/products/bg-cart.png);
+  background-image: url(~/images/products/bg-cart.png);
   background-position: center center;
   background-size: cover;
 

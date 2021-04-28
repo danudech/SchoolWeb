@@ -2475,12 +2475,12 @@ a.ui-button:active,
 }
 
 .table td.details-control {
-  background: url("../images/open.png") no-repeat center center;
+  background: url("~/images/open.png") no-repeat center center;
   cursor: pointer;
 }
 
 .table tr.shown td.details-control {
-  background: url("../images/close.png") no-repeat center center;
+  background: url("~/images/close.png") no-repeat center center;
 }
 
 /*== Table Responsive ==*/
@@ -5507,7 +5507,7 @@ code[class*="language-"], pre[class*="language-"] {
 
 .card-eco .bg-pattern {
   position: absolute;
-  background-image: url("../images/1.png");
+  background-image: url("~/images/1.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -5651,7 +5651,7 @@ code[class*="language-"], pre[class*="language-"] {
 }
 
 .offer-box {
-  background-image: url("../images/products/offer.jpg");
+  background-image: url("~/images/products/offer.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -5860,7 +5860,7 @@ hr.thick {
 
 .cart-promo {
   padding: 90px;
-  background-image: url(../images/products/bg-cart.png);
+  background-image: url(~/images/products/bg-cart.png);
   background-position: center center;
   background-size: cover;
 }
@@ -6765,7 +6765,7 @@ hr.thick {
 
 .chat-box-right .chat-body {
   padding: 20px;
-  background-image: url("../images/pattern.png");
+  background-image: url("~/images/pattern.png");
   background-repeat: repeat;
   background-attachment: fixed;
   height: 650px;
@@ -6952,7 +6952,7 @@ hr.thick {
 }
 
 .met-pro-bg {
-  background-image: url("../images/pattern2.png");
+  background-image: url("~/images/pattern2.png");
   background-repeat: repeat;
 }
 
